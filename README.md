@@ -60,7 +60,7 @@ Braço robótico com servomotores, controlado via controle PS2, simula coleta de
 
 - 📍 Feira de Santana - BA  
 - 📧 carlosbarreto057@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) *(adicione seu link aqui)*
+- 💼 LinkedIn: https://www.linkedin.com/in/carlos-barreto-9665ba285/
 
 ---
 
