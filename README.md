@@ -1,19 +1,19 @@
-# 👋 Olá, eu sou Carlos Barreto
+#  Olá, eu sou Carlos Barreto
 
-💻 Estudante de **Cybersecurity e Desenvolvimento de Sistemas (Infnet e SENAI)**  
-📍 Bahia, Brasil  
-🚀 Focado em **desenvolvimento de software, proteção de sistemas e vulnerabilidades, automação e integrações IoT**
+ Estudante de **Cybersecurity e Desenvolvimento de Sistemas (Infnet e SENAI)**  
+ Bahia, Brasil  
+ Focado em **desenvolvimento de software, proteção de sistemas e vulnerabilidades, automação e integrações IoT**
 
 ---
 
-## 💼 Sobre Mim
+##  Sobre Mim
 
 Sou técnico e analítico, com experiência em **desenvolvimento seguro**, **segurança da informação** e **projetos práticos**.  
 Meu objetivo é contribuir com soluções eficientes e confiáveis para **sistemas digitais**, atuando em **Back-End, Front-End, Cybersecurity e automação IoT**.
 
 ---
 
-## 🛠️ Habilidades
+##  Habilidades
 
 - **Back-End:** Java, Python, SQL, C  
 - **Front-End:** HTML, CSS, JavaScript, Bootstrap  
@@ -23,7 +23,7 @@ Meu objetivo é contribuir com soluções eficientes e confiáveis para **sistem
 
 ---
 
-## 📂 Projetos
+##  Projetos
 
 - Desenvolvimento de sistemas seguros em Java e C  
 - Automação com Arduino e ESP32  
@@ -32,11 +32,11 @@ Meu objetivo é contribuir com soluções eficientes e confiáveis para **sistem
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - GitHub: [github.com/carlosbarreto1a](https://github.com/carlosbarreto1a)  
 - LinkedIn: [linkedin.com/in/carlos-barreto-9665ba285](https://www.linkedin.com/in/carlos-barreto-9665ba285)
 
 ---
 
-✨ Estou sempre aprendendo e aberto a oportunidades para **desenvolver soluções inovadoras, colaborar em projetos desafiadores e crescer na área de tecnologia**.
+ Estou sempre aprendendo e aberto a oportunidades para **desenvolver soluções inovadoras, colaborar em projetos desafiadores e crescer na área de tecnologia**.
